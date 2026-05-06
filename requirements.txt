@@ -1,0 +1,17 @@
+# Manipulação de dados
+pandas>=2.2.0
+numpy>=1.26.0
+
+# APIs do BCB
+requests>=2.31.0
+python-bcb>=0.3.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
+
+# Banco de dados
+sqlalchemy>=2.0.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.29.0
