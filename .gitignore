@@ -59,3 +59,9 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Dados brutos baixados das APIs (regeneráveis)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xlsx
+!data/raw/.gitkeep
