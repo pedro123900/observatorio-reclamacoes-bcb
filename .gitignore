@@ -65,3 +65,6 @@ data/raw/*.csv
 data/raw/*.json
 data/raw/*.xlsx
 !data/raw/.gitkeep
+
+
+.claude/settings.local.json
